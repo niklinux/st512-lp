@@ -1,0 +1,31 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision )
++++ index.html	(revision )
+@@ -122,11 +122,11 @@
+     </div>
+ 
+     <!--заголовок 4u-->
+-    <div id="intro-left-image" class="intro-block  dark-bg fixed-bg text-center">
++    <header id="intro-left-image" class="intro-block  dark-bg fixed-bg text-center">
+         <div class="row">
+             <div class="col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
+                 <div class="slogan ">
+-                    <h1 class=""> Забудьте о проблемах с организацией свадьбы. Подготовим праздник в течении 10 дней, от
++                    <h1 class="text-uppercase"> Забудьте о проблемах с организацией свадьбы.<br></h1><h1> Подготовим праздник в течении 10 дней, от
+                         ресторана до свадебного автомобиля.<br>
+                     </h1>
+                 </div>
+@@ -145,7 +145,7 @@
+                 </a>
+             </div>
+         </div>
+-    </div>
++    </header>
+ </div>
+ <!-- header - nav - background - buttons -->
+ 
+\ No newline at end of file
